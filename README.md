@@ -1,10 +1,9 @@
 # Clone the repository
 	cd ~/git
-	git clone https://github.com/sugizo/stifix.github.io
+	git clone https://github.com/sugizo/hugo
 
 # Create File
-	cd stifix.github.io
-	echo "Hello World" > index.html
+	cd hugo
 
 # Add, commit, and push your changes
 	git add --all
