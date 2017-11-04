@@ -1,6 +1,6 @@
 # Clone the repository
 	cd ~/git
-	git clone https://github.com/sugizo/hugo_build
+	git clone https://github.com/sugizo/hugo-build
 
 # Create File
 	cd hugo
